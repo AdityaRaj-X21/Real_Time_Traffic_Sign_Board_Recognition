@@ -1,7 +1,3 @@
-Here's a detailed README file for your GitHub repository:  
-
----
-
 # Real-Time Traffic Sign Recognition using Convolutional Neural Networks  
 
 This project implements a real-time traffic sign recognition system using a Convolutional Neural Network (CNN). The system is capable of recognizing various traffic signs and can be utilized in autonomous vehicles, driver assistance systems, or any other applications involving traffic sign detection.  
